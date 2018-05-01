@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "767525093042",
+    "firebase_url": "https://federalassignment-ed87d.firebaseio.com",
+    "project_id": "federalassignment-ed87d",
+    "storage_bucket": "federalassignment-ed87d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767525093042:android:90de84a601125962",
+        "android_client_info": {
+          "package_name": "example.manoj_pc.federalassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767525093042-ja01hnvj6duv0eme93ssib1gogjkvj1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDVeHCykLfsCkDbBXrqKKQ7E2-XxlS7L4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
